@@ -1,0 +1,3 @@
+python tmp_server_validate.py
+200
+For the given statement, the system response is 'anger': 0.9, 'disgust': 0.05, 'fear': 0.02, 'joy': 0.02 and 'sadness': 0.01. The dominant emotion is anger.

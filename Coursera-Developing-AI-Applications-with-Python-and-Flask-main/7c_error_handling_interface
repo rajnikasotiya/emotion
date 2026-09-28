@@ -1,0 +1,4 @@
+python tmp_error_handling_validate.py
+function result: {'anger': None, 'disgust': None, 'fear': None, 'joy': None, 'sadness': None, 'dominant_emotion': None}
+server status: 200
+server body: Invalid text! Please try again!

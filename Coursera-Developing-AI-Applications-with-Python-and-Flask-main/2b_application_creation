@@ -1,0 +1,5 @@
+python -c "from emotion_detection import emotion_detector; print('import ok')"
+import ok
+
+python tmp_emotion_test.py
+import ok

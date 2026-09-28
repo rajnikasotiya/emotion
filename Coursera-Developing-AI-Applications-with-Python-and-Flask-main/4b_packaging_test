@@ -1,0 +1,3 @@
+python tmp_package_validate.py
+import ok
+{'anger': 0.9, 'disgust': 0.05, 'fear': 0.02, 'joy': 0.02, 'sadness': 0.01, 'dominant_emotion': 'anger'}

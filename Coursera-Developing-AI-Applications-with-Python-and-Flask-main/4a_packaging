@@ -1,0 +1,7 @@
+from .emotion_detection import emotion_detector
+
+__all__ = ['emotion_detector']
+
+# Package index file for EmotionDetection
+# Location: EmotionDetection/__init__.py
+# Note: Push this file to your forked repository to make it available publicly.
